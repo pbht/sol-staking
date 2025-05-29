@@ -3,5 +3,7 @@ This script is intended to create a staking vault for SOL. The concept is simple
 
 ## Todo
 - [ ] Frontend
-- [ ] Tests
+- [x] Basic deposit test
+- [ ] Basic withdrawal test
+- [ ] More complex logic tests (multiple deposits, multiple withdrawals, invalid inputs, etc.)
 - [ ] Time limited withdrawals
